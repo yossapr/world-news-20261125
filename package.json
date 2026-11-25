@@ -1,0 +1,12 @@
+{
+  "name": "one-day-front-page-1125",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A 1024x1024 front page summing up Wednesday 25 November 2026, entered in make.fun bounty news-image-20261125.",
+  "license": "MIT",
+  "scripts": {
+    "build": "node tools/verify.mjs && node tools/page.mjs && node tools/shot.mjs",
+    "start": "node main.ts"
+  }
+}
