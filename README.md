@@ -1,8 +1,8 @@
 # The world in one day — Wednesday 25 November 2026
 
-![make.fun bounty](https://img.shields.io/badge/make.fun-news--image--20261125-ff3fa4?style=flat-square)
-![node](https://img.shields.io/badge/node-22.18%2B-339933?style=flat-square)
-![license](https://img.shields.io/badge/license-MIT-191419?style=flat-square)
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/yossapr/world-news-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/yossapr/world-news-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 
 A single 1024×1024 front page of Wednesday 25 November 2026, entered in make.fun's bounty
 `news-image-20261125`. Every story is taken from the day's edition, kept with its own dateline and its
